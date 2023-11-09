@@ -209,6 +209,7 @@ h1 {
 }
 
 footer {
+    background: linear-gradient(0deg, #0A0055 61.29%, rgba(10, 0, 85, 0.00) 100%);
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
