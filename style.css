@@ -20,11 +20,16 @@ header a {
     padding: 10px 35px 10px 35px;
     text-decoration: none;
     border-radius: 80px;
-    border: 5px solid #6397EB ;
+    border: 5px solid #6397EB;
     width: 200px;
     height: 50px;
     display: flex;
     justify-content: center;
+}
+
+header a:hover {
+    background-color: #6397EB;
+    border: 5px dotted #8BB7FF;
 }
 
 header {
