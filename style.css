@@ -1,0 +1,216 @@
+body {
+    font-family: sans-serif;
+}
+
+header img {
+    width: 427px;
+height: 149px;
+
+}
+
+header a {
+    color: #3D27AF;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background-color: #8BB7FF;
+    stroke-width: 5px;
+    margin: 50px;
+    padding: 10px 35px 10px 35px;
+    text-decoration: none;
+    border-radius: 80px;
+    border: 5px solid #6397EB ;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    background: linear-gradient(180deg, #4871E0 57.07%, rgba(72, 113, 224, 0.00) 95.72%);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+body {
+    background-image: url(folder/22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.news4 {
+   padding: 95px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.news4 h3 {
+    color: black;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 370px;
+    border-radius: 25px;
+    background: rgba(61, 81, 190, 0.60);
+    padding: 15px;
+}
+
+.news4 p {
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 25px;
+    background: rgba(61, 81, 190, 0.60);
+    padding: 15px;
+}
+
+.news5-text {
+    width: 574px;
+    margin-bottom: 25px;
+    
+
+
+}
+
+.news5-text a {
+    text-decoration: #626fb7 ;
+    border-radius: 25px;
+    background: rgba(61, 81, 190, 0.60);
+    padding: 7px;
+}
+
+.news6-img {
+    border-radius: 25px;
+    background: rgba(61, 81, 190, 0.60);
+    padding: 13px;
+    width: 650px;
+    height: 380px;
+}
+
+h1 {
+    border-radius: 25px;
+    background: rgba(53, 59, 165, 0.60);
+    padding: 30px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.hey {
+    border-radius: 38px;
+    background: rgba(67, 91, 219, 0.60);
+    font-size: 40px;
+    width: 400px;
+    padding: 20px 30px 20px 30px;
+    margin: 250px 0 200px 70px
+}
+
+.hey1 {
+    border-radius: 38px;
+    background: rgba(67, 91, 219, 0.60);
+    font-size: 40px;
+    width: 400px;
+    padding: 20px 30px 20px 30px;
+    left: 50px;
+}
+
+.oc {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+
+
+.servers {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5%; 
+    padding-right: 5%; 
+}
+
+.server, .server2 {
+    border-radius: 25px;
+    background: rgba(53, 59, 165, 0.60);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 25%;
+    padding: 15px 5%; 
+   
+}
+
+
+.events {
+    border-radius: 38px;
+    background: rgba(67, 91, 219, 0.60);
+    padding: 15px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.image img {
+    width: 420px;
+    max-width: 100%; 
+    height: auto; 
+}
+
+.image2 img {
+    width: 420px;
+    max-width: 100%; 
+    height: auto;
+}
+
+.image {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.image2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.socials{
+    display: flex;
+    justify-content: space-between;
+    margin: 2vw 5vw 2vw 5vw;
+    background-color: rgba(74, 80, 195, 0.60);
+    border-radius: 25px;
+    padding: 20px;
+}
+.socials-img{
+    height: 15vw;
+}
+.footer-links {
+    display: flex;
+    align-items: center;
+    margin: 5vw;
+    position: relative;
+    bottom: -80px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 20px;
+}
